@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/Form-Walidator/static/css/main.e1e88280.chunk.css",
+    "main.js": "/Form-Walidator/static/js/main.81a7d7a2.chunk.js",
+    "main.js.map": "/Form-Walidator/static/js/main.81a7d7a2.chunk.js.map",
+    "runtime-main.js": "/Form-Walidator/static/js/runtime-main.f6c1af6a.js",
+    "runtime-main.js.map": "/Form-Walidator/static/js/runtime-main.f6c1af6a.js.map",
+    "static/js/2.459cfc43.chunk.js": "/Form-Walidator/static/js/2.459cfc43.chunk.js",
+    "static/js/2.459cfc43.chunk.js.map": "/Form-Walidator/static/js/2.459cfc43.chunk.js.map",
+    "static/js/3.76d4744c.chunk.js": "/Form-Walidator/static/js/3.76d4744c.chunk.js",
+    "static/js/3.76d4744c.chunk.js.map": "/Form-Walidator/static/js/3.76d4744c.chunk.js.map",
+    "index.html": "/Form-Walidator/index.html",
+    "static/css/main.e1e88280.chunk.css.map": "/Form-Walidator/static/css/main.e1e88280.chunk.css.map",
+    "static/js/2.459cfc43.chunk.js.LICENSE.txt": "/Form-Walidator/static/js/2.459cfc43.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f6c1af6a.js",
+    "static/js/2.459cfc43.chunk.js",
+    "static/css/main.e1e88280.chunk.css",
+    "static/js/main.81a7d7a2.chunk.js"
+  ]
+}
